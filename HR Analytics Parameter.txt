@@ -1,0 +1,6 @@
+CASE [Dimension]
+WHEN "Gender" THEN [Gender]
+WHEN "Education Level" THEN [Education Level]
+WHEN "Experience" THEN [Experience]
+WHEN "Last New Job" THEN [Last New Job]
+END
