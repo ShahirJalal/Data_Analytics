@@ -17,5 +17,5 @@ elif BMI >= 30.0 and BMI <= 34.9:
     print("You are Obesity class II")
 elif BMI >= 35.0 and BMI <=39.9:
     print("You are Obesity class II")
-else: 
+else:
     print("You are Obesity class III")
